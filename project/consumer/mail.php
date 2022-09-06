@@ -21,7 +21,7 @@ class Mail {
         $mail->Host	 = 'asmtp.bilkent.edu.tr';					
         $mail->SMTPAuth = true;							
         $mail->Username = 'nurjemal.saryyeva@ug.bilkent.edu.tr';				
-        $mail->Password = 'Bilkent61152611';						
+        $mail->Password = '***';						
         $mail->SMTPSecure = 'starttls';							
         $mail->Port	 = 587;
         
